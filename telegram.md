@@ -20,6 +20,8 @@ nftset=/tg.dev/4#inet#fw4#vpn_domains
 nftset=/tx.me/4#inet#fw4#vpn_domains
 nftset=/usercontent.dev/4#inet#fw4#vpn_domains
 ```
+после `service getdomains restart`
+
 в `/etc/config/firewall` добавить/убрать:
 ```
 list entry '91.108.4.0/22'
@@ -31,3 +33,4 @@ list entry '91.105.192.0/23'
 list entry '91.108.20.0/22'
 list entry '185.76.151.0/24'
 ```
+после `service firewall restart`
