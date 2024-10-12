@@ -644,7 +644,6 @@ nftset=/wide-youtube.l.google.com/4#inet#fw4#vpn_domains
 nftset=/accounts.youtube.com/4#inet#fw4#vpn_domains
 nftset=/nhacmp3youtube.com/4#inet#fw4#vpn_domains
 nftset=/ytimg.l.google.com/4#inet#fw4#vpn_domains
-nftset=/googleusercontent.com/4#inet#fw4#vpn_domains
 nftset=/gateway.discord.gg/4#inet#fw4#vpn_domains
 nftset=/cdn.discordapp.com/4#inet#fw4#vpn_domains
 nftset=/googleapis.com/4#inet#fw4#vpn_domains
